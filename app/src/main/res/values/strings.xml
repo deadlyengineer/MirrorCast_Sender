@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sender</string>
+    <string name="title">MIRROR CAST</string>
+    <string name="broadcast">BROADCAST SCREEN</string>
+    <string name="start_service">START SERVICE</string>
+    <string name="about">ABOUT</string>
+    <string name="stop_service">STOP SERVICE</string>
+    <string name="manufacturer">MANUFACTURER: NIKITA</string>
+    <string name="version">VERSION: 1.0.0</string>
+    <string name="back">BACK</string>
+    <string name="indicator_start">Press the START SERVICE to broadcast the screen.</string>
+    <string name="indicator_stop">The service is running...</string>
+</resources>
